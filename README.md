@@ -1,7 +1,5 @@
 # Video-Recommendation-System-Rutube
 
-# Video-Recommendation-System-Prototype
-
 ## Содержание
 
 - [Стек технологий](#стек-технологий)
